@@ -23,6 +23,7 @@
     "email": "btf@immyw.com"
   },
   "dependencies": {
+    "hexo": "5.4.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-renderer-pug": "^1.0.0"
   },
